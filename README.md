@@ -7,17 +7,19 @@
 
 <!--<p align="left"> <a href="https://www.facebook.com/programmervk" target="blank"><img src="https://img.shields.io/facebook/follow/programmervk?logo=twitter&style=for-the-badge" alt="programmervk" /></a> </p> -->
 
-- 🔭 I’m currently working as *Team Lead Java Development*
+- 🔭 I’m currently working as *Team Lead Java Development.*
 
-- 🔭 I’m currently working on *Spring Boot, Microservices, Rest and SOAP Integration*
+- 🔭 I’m currently working on *Spring Boot, Microservices, Rest and SOAP Integration.*
 
-- 🌱 I’m currently learning *Application Architecure, ReactJs, NodeJs and Different integration module used in United Arab Emirates*
+- 🌱 I’m currently learning *Application Architecure, ReactJs, NodeJs and Different integration module used in United Arab Emirates.*
 
 - 👨‍💻 All of my projects are available at https://vijeshkumar.netlify.app/
 
 <!-- 📝 I regularly write articles on https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel https://www.youtube.com/c/FazalTuts4Uf](https://www.youtube.com/c/FazalTuts4Uf)-->
 
-- 💬 Ask me about *java, spring, Hibernate, SOAP, Integration, Angular, Security, Application Architecure, react js and Database*
+- 💬 Ask me about *java, spring, Hibernate, SOAP, Integration, Angular, Security, Application Architecure, react js and Database.*
+
+- 💬 Ask me about *Technical Design Document (high and low Level), Technical Flow Document and Traceability Matrix Document.*
 
 - 📫 How to reach me *vijaykhatri3633@gmail.com*
 
