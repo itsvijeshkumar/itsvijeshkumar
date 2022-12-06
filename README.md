@@ -55,5 +55,5 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact" />
  -->
 
-| <a href="https://github.com/itsvijeshkumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijesh-kumar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vijesh-kumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijesh-kumar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/itsvijeshkumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvijeshkumar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/itsvijeshkumar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvijeshkumar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
