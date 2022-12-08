@@ -21,7 +21,7 @@
 
 - 💬 Ask me about *Technical Design Document (high and low Level), Technical Flow Document and Traceability Matrix Document.*
 
-- 📫 How to reach me *vijaykhatri3633@gmail.com*
+- 📫 How to reach me *itsvijeshkumar@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
